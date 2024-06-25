@@ -341,6 +341,10 @@
       "url": "index.html"
     },
     {
+      "hash": "sha256-2CytOKaPyKW92Q6qR0fPv0NEU5SVSq+90Gj487moeB4=",
+      "url": "JS\/saveAsFile.js"
+    },
+    {
       "hash": "sha256-XC++WvhUdnhBFWoZJxvZMNPhs92rM1BkpI0X5h8VfaE=",
       "url": "manifest.webmanifest"
     },
@@ -357,5 +361,5 @@
       "url": "pwa\/icon-512.png"
     }
   ],
-  "version": "zr0LEuq0"
+  "version": "IM9raO3O"
 };
